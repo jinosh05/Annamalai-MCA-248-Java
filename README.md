@@ -31,6 +31,7 @@ Run this command to install those packages
 
 ```
 pip install opencv-contrib-python
+pip install matplotlib
 ```
 
 
