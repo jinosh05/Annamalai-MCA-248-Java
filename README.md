@@ -26,15 +26,17 @@ appletviewer program.html
 
 For running Python code you have to install Python3 and you have to download the required packages.
 
-Run this command to install those packages
+Run this command to install those packages, 
 
 
 ```
 pip install opencv-contrib-python
 pip install matplotlib
 ```
+Note: Don't forget to run the above code if you're running it for first time
 
-
-The codes are uploaded once I checked it, anyone interested in helping can send me Pull-Request.
+The codes are uploaded once I checked it.
+All codes are running except Image 9,
+Anybody run it and Send me code
 
 Thank you
