@@ -36,7 +36,6 @@ pip install matplotlib
 Note: Don't forget to run the above code if you're running it for first time
 
 The codes are uploaded once I checked it.
-All codes are running except Image 9,
-Anybody run it and Send me code
+
 
 Thank you
